@@ -2,7 +2,7 @@
 
 Skills: Kotlin / PHP / JS / HTML / CSS / Codeigniter
 
-- 🌱 I’m currently learning Kotlin 
+- 🌱 I’m currently learning Android Jetpack
 - 📫 How to reach me: fozimata@gmail.com 
 
 
