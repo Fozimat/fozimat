@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Fozimat 
 
-Skills: Kotlin / PHP / JS / HTML / CSS / Codeigniter
+Skills: Kotlin / PHP / JS / HTML / CSS / Codeigniter/ Laravel
 
-- 🌱 I’m currently learning Android Jetpack
+- 🌱 I’m currently learning Laravel
 - 📫 How to reach me: fozimata@gmail.com 
 
 
