@@ -2,7 +2,7 @@
 
 Skills: Kotlin / PHP / JS / HTML / CSS / Codeigniter/ Laravel
 
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Express.JS
 - 📫 How to reach me: fozimata@gmail.com 
 
 
