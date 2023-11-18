@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Fozimat 
 
-Skills: Kotlin / PHP / JS / HTML / CSS / Codeigniter/ Laravel
+Skills: PHP / Java / JavaSript / Kotlin / Node.js / Codeigniter/ Laravel / React.js 
 
-- 🌱 I’m currently learning Node JS
+- 🌱 I’m currently learning React
 - 📫 How to reach me: fozimata@gmail.com 
 
 
