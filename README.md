@@ -3,7 +3,7 @@
 Skills: PHP / Java / JavaSript / Kotlin / Node.js / Codeigniter/ Laravel / React.js 
 
 - 🌱 I’m currently learning React
-- 📫 How to reach me: fozimata@gmail.com 
+- 📫 How to reach me: [fozimat.my.id](http://fozimat.my.id/)
 
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
