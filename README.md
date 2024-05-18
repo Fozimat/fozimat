@@ -1,10 +1,14 @@
-### Hi there 👋, my name is Fozimat 
+### Hi there 👋, my name is Fozimat Amhas
 
-Skills: PHP / JQuery / Java / JavaSript / Kotlin / Node.js / Codeigniter/ Laravel / React.js / Flutter
-
-- 🌱 I'm currently exploring flutter and its environment
+- 🌱 I'm currently focusing on backend side
 - 📫 How to reach me: [fozimat.my.id](http://fozimat.my.id/)
 
+### Tech Stack
+<p>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,kotlin,laravel,wordpress,flutter,jquery,vue,react,nuxtjs,tailwind,bootstrap,express,mysql,postgres,firebase,cypress,jest,figma,git,postman,npm" />
+  </a>
+</p>
 
 <p align="left">
 <a href="#">
